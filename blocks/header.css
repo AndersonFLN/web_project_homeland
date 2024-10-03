@@ -1,0 +1,17 @@
+.header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 34px;
+}
+ .header__logo-text {
+  color: #fff;
+ }
+
+ .header__logo {
+
+
+ }
+
+
