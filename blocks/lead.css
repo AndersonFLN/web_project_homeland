@@ -10,7 +10,7 @@
 .lead__title {
   font-family: 'Inter','sans-serif';
   font-size: 96px;
-  font-weight: 900px;
+
   line-height: 100px;
   max-width: 720px;
   padding-left: 280px;
@@ -54,7 +54,7 @@
   .lead__image {
     padding-left: 0;
     padding-right: 0;
-    max-width: auto;
+
   }
 
   .lead__title {
@@ -79,7 +79,7 @@
   .lead__image {
     padding-left: 0;
     padding-right: 0;
-    max-width: auto;
+
   }
 
   .lead__title {
@@ -110,7 +110,7 @@
   .lead__image {
     padding-left: 0;
     padding-right: 0;
-    max-width: auto;
+
   }
 
   .lead__title {
