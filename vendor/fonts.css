@@ -1,0 +1,15 @@
+@font-face {
+  src: url(/vendor/fonts.css) format('woff2'),
+       url(/vendor/fonts.css) format('woff'),
+       url(.ttf) format('truetype');
+  font-family: 'Inter';
+  font-weight: 400;
+}
+
+@font-face {
+  src: url(/vendor/fonts.css) format('woff2'),
+       url(/vendor/fonts.css) format('woff'),
+       url(/vendor/fonts.css) format('truetype');
+  font-family: 'Inter';
+  font-weight: 900;
+}
