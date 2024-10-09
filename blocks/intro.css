@@ -3,6 +3,7 @@
   max-width: 830px;
   flex-direction: column;
   margin-left: 148px;
+  margin-right: 303px;;
   color: #fff;
 
 }
@@ -62,10 +63,11 @@
 
 @media  (max-width: 1024px) {
   .intro {
-    /*width: 100%;*/
+    max-width: 100%;
     margin: 0;
     padding: 0;
     margin-left: 120px;
+    margin-right: 200px;
   }
 
   .intro__title,
