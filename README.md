@@ -8,4 +8,4 @@
 
 ## https://andersonfln.github.io/web_project_homeland/
 
-> Status do Projeto: Concluido :heavy_check_mark:
+
