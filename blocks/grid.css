@@ -9,7 +9,7 @@
   margin-top: 118px;
 }
 
-.grid_1 {
+.grid__1 {
   max-width: 95%;
 }
 
@@ -41,7 +41,7 @@
 
 @media screen and (max-width:544px) {
   .grid {
-    max-width: 100% auto;
+    max-width: 100% ;
     gap: 12px;
   }
 }
@@ -54,6 +54,6 @@
       margin-top: 36px;
       margin-left: 16px;
       margin-right: 16px;
-      max-width: 100% auto;
+      max-width: 100% ;
     }
 }
