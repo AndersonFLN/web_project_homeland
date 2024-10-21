@@ -9,7 +9,7 @@
   margin-top: 118px;
 }
 
-.photo_grid_1 {
+.grid_1 {
   max-width: 95%;
 }
 
@@ -40,14 +40,14 @@
 }
 
 @media screen and (max-width:544px) {
-  .photogrid {
+  .grid {
     max-width: 100% auto;
     gap: 12px;
   }
 }
 
   @media screen and (max-width: 320px) {
-    .photo_grid {
+    .grid {
       display: grid;
       grid-template-columns: 1fr;
       gap: 10px;
